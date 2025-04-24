@@ -1,7 +1,6 @@
 ---
-title: "Welcome to Lumeria: Duskrunner"
-aliases:
-  - Home
+title: Home
+draft: false
 ---
 ## Welcome to Lumeria - the World of Shadow!
 It has been 104 years since [[Nightfall]] plunged the world of [[Lumeria]] into unending night and the [[Nyxwraiths]] first emerged. Faced with certain death in the darkness, groups started building sanctuaries of artificial daylight, forming tightly-packed #Holds surrounded and supplied by smaller, less affluent #Shards. Separated by seas of darkness, civilization is held together by one group, the [[Duskrunners]] - the adventuring guild of Lumeria.
