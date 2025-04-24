@@ -17,5 +17,6 @@ My main goal in this campaign is that the plot be fairly linear with individual 
 Combat is a pretty vital part of any DnD game. My goal in prep for each session is for there to be *1 significant instance of combat per-session*, with there being more in dungeons-crawly situations or the like. In instances where an entire session happens without combat, I will make sure that there will *never be 2 sessions in a row without any combat*.
 
 With those guardrails, that should equate to a pretty solid balance between having plenty of role-play opportunities without dragging too much between letting the super-powered fighting adventurers flex their strength.
-#### Rule of Cool
+
+[!tip] Rule of Cool
 My main goal in running a game is that everyone feels like they have the tools available to them to have fun. I want to encourage you to be creative and will generally allow you to try most things and possibly even give you bonuses as a result for trying something out of the box.
