@@ -19,4 +19,5 @@ Combat is a pretty vital part of any DnD game. My goal in prep for each session 
 With those guardrails, that should equate to a pretty solid balance between having plenty of role-play opportunities without dragging too much between letting the super-powered fighting adventurers flex their strength.
 
 [!tip] Rule of Cool
+
 My main goal in running a game is that everyone feels like they have the tools available to them to have fun. I want to encourage you to be creative and will generally allow you to try most things and possibly even give you bonuses as a result for trying something out of the box.
