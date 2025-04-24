@@ -17,6 +17,20 @@ My main goal in this campaign is that the plot be fairly linear with individual 
 Combat is a pretty vital part of any DnD game. My goal in prep for each session is for there to be *1 significant instance of combat per-session*, with there being more in dungeons-crawly situations or the like. In instances where an entire session happens without combat, I will make sure that there will *never be 2 sessions in a row without any combat*.
 
 With those guardrails, that should equate to a pretty solid balance between having plenty of role-play opportunities without dragging too much between letting the super-powered fighting adventurers flex their strength.
-```[!tip] Rule of Cool
+```
+[!tip] Rule of Cool
+
 My main goal in running a game is that everyone feels like they have the tools available to them to have fun. I want to encourage you to be creative and will generally allow you to try most things and possibly even give you bonuses as a result for trying something out of the box.
 ```
+### Safety Tools
+The safety and comfort of everyone is and always will be my top-priority in the game. The [Lines & Veils Document](https://docs.google.com/spreadsheets/d/1Tioa7dusPyOB1QkaGyY9U3g9pMXpsaOuQkjuvgr-r1U/edit?usp=drive_link) will be kept updated with what everyone says are their own lines and veils so that we can all be on the same page and that no one feels unsafe. That being said, I’m not going to pretend that anyone is always perfect. If I or anyone else says or does anything that makes you feel uncomfortable, please to let me know via DM or in-person and the situation will be handled accordingly.
+
+```
+[!info]
+
+***Lines*** - Topics/themes that aren’t to be talked about or referenced in any way at the table under any circumstance
+
+***Veils*** - Topics/themese thatcan be be talked about occurring, just not in detail
+```
+
+I cannot stress enough how important player safety and comfort is to me. Please don't just soldier on if something/someone is making you uncomfortable, even if it's me.
