@@ -1,7 +1,8 @@
 ---
-title: House Rules
+title: Character Creation
 draft: false
 tags:
   - rules
+  - tools
   - resources
 ---
