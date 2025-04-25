@@ -2,7 +2,6 @@
 title: Welcome!
 draft: false
 tags:
-  - rules
   - resources
   - newPlayers
 ---
@@ -10,7 +9,7 @@ It has been 104 years since [[Nightfall]] plunged the world of [[Lumeria]] into 
 
 The Duskrunners are the lifeblood of Lumeria, bravely venturing into the night to ensure the flow of life, knowledge, and adventure between Holds and Shards. Through their divisions, they maintain communication, preserve supply lines, and neutralize threats before they escalate.
 
-This is where your story begins, adventurer. You and your party have completed your training and are now embarking on your first mission as a fully-fledged Duskrunner Spear squad. Your task is to confront bandits operating from ruins just outside of [[Wellspring]] in [[Calomir]]. How will your tale unfold as you step beyond society's walls into the wilderness for the first time?
+This is where your story begins, adventurer. You and your party have completed your training and are now embarking on your first mission as a fully-fledged #DuskrunnerSpear  squad. Your task is to confront bandits operating from ruins a short trek from [[Wellspring]] in [[Calomir]]. How will your tale unfold as you step beyond society's walls into the wilderness for the first time?
 
 ---
 ## Campaign Overview

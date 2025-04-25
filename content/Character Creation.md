@@ -2,8 +2,6 @@
 title: Character Creation
 draft: true
 tags:
-  - rules
-  - tools
   - resources
   - newPlayers
 ---

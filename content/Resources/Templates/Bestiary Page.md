@@ -4,8 +4,12 @@ draft: true
 tags:
   - beastiary
   - aggressive
+  - neutral
+  - passive
   - hoard
-aliases:
+  - elite
+  - boss
+aliases: []
 ---
 [*inspo image here*|250]
 
