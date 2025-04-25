@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-draft: true
+draft: false
 tags:
   - resources
   - newPlayers
