@@ -10,7 +10,7 @@ tags:
 
 When a character fails their 3rd death saving throw, they become **unconscious and unresponsive** until the party takes a rest. Upon resting, the character is revived with a permanent **Serious Injury** debuff reflective of their injury's nature.
 
-> [!note]+
+> [!note]-
 > **Serious Injuries** are impactful but not game-breaking, such as:
 > - Reduced movement speed (-5 ft.) from a leg injury.
 > - Decreased effective range with bows or crossbows from an eye injury.
@@ -19,7 +19,7 @@ When a character fails their 3rd death saving throw, they become **unconscious a
 
 The character recovers at **half HP** after a short rest or **full HP** after a long rest, along with the associated *Serious Injury*.
 
-> [!danger]+
+> [!danger]-
 > Depending on injury severity, characters can sustain only **1–2 active Serious Injuries**. Accumulating more risks **permanent death**, barring rare and expensive revivification options within Lumeria.
 
 ---
@@ -35,10 +35,10 @@ To encourage dynamic positioning and movement in combat, the Attack of Opportuni
 
 When rolling a check **with emphasis**, roll **2d20** and select the result farthest from **10**.
 
-> [!info]+ Rulings
+> [!info]- Rulings
 > 
 > - Advantage or disadvantage **do not** apply to Emphasis rolls, only proficiency and modifiers.
->     
+
 
 ---
 
