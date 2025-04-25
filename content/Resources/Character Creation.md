@@ -14,7 +14,7 @@ Let me know of any ideas you have, and I'll work with you about getting them fit
 >Our journey will start with our adventuring party tackling their first solo-mission as fully fledged Duskrunner Spears. For character creation, that means that we will be starting the game at ***level 1*** and as a party that ***knows each other prior to the start of session 1*** since they are all squad-mates that went through training together in the same recruiting class.
 ## Resources
 >[!caution] BONUS!!!
->While creating your character, if you either send me a message in Discord or copy and send me a filled in version of this [Player Backstory Document](https://docs.google.com/document/d/1jY9jRi_iIdExAyp0RLmuur2Veo6CEO6ZaprdlGRSNvo/edit?usp=sharing) will get to pick from a list of magic items to start with on top of your base-chosen equipment!
+>While creating your character, if you either send me a message in Discord or copy and send me a filled in version of this [Player Backstory Document](https://docs.google.com/document/d/1jY9jRi_iIdExAyp0RLmuur2Veo6CEO6ZaprdlGRSNvo/edit?usp=sharing), you'll get to pick a 2 common or 1 uncommon magic item(s) that fit with your character to start the game with on top of your normal starting equipment
 
 - **Source Material** - Main plan is to stick to the source material in the **2024 PHB**, but I'm open to exploring other official-released material to start if you wanted to reach out and talking it out. I like the idea of homebrewing in the future, but can't say I'm confident enough in running the system to have balanced material along with the added complexity.
 	- Here're places you can access the handbook:
