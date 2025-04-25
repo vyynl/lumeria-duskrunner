@@ -14,7 +14,7 @@ aliases: []
 [*inspo image here*|250]
 
 ---
-# Overview
+# Stat Overview
 *Short desc, Allignment*
 
 | AC  | Init. | HP  | Speed | CR  |
