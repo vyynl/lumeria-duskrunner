@@ -1,7 +1,8 @@
 ---
 title: House Rules
-draft: false
+draft: true
 tags:
   - rules
   - resources
+  - newPlayers
 ---
