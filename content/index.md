@@ -35,3 +35,5 @@ The safety and comfort of everyone is and always will be my top-priority in the 
 >***Veils*** - Topics/themes that can occur, just not extensively or discussed detail
 
 I cannot stress enough how important player safety and comfort is to me. Please don't just soldier on if something/someone is making you uncomfortable, even if it's me.
+### Scheduling
+I'm prepared to host everyone in person starting with a goal of 2 sessions per month, getting scheduled as early out as we can in advance, with each session shooting for around 2.5 - 3 hours from start to stop. I'll send out a sheet in the near future for everyone to tag what days their available, and I'll put together the nights that work best for everyone to play once I have everyone's availability in.
