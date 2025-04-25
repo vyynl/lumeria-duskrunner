@@ -6,34 +6,35 @@ tags:
   - resources
   - newPlayers
 ---
-It has been 104 years since [[Nightfall]] plunged the world of [[Lumeria]] into unending night and the [[Nyxwraiths]] first emerged. Faced with certain death in the darkness, groups started building sanctuaries of artificial daylight, forming tightly-packed Holds surrounded and supplied by smaller, less affluent Shards. Separated by seas of darkness, civilization is held together by one group, the [[Duskrunners]].
+It has been 104 years since [[Nightfall]] plunged the world of [[Lumeria]] into unending night and the [[Nyxwraiths]] first emerged. Faced with certain death in the darkness, survivors began constructing sanctuaries of artificial daylight, forming tightly packed Holds supported by smaller, less affluent Shards. Separated by vast seas of darkness, civilization remains interconnected thanks to one dedicated group: the [[Duskrunners]].
 
-The only ones brave enough to venture into the night, the Duskrunners are the blood of life, knowledge, and adventure flowing between the different shards and holds. It's through them and their different divisions that communications are maintained, supply lines are maintained, and threats are handled before they spiral out of control.
+The Duskrunners are the lifeblood of Lumeria, bravely venturing into the night to ensure the flow of life, knowledge, and adventure between Holds and Shards. Through their divisions, they maintain communication, preserve supply lines, and neutralize threats before they escalate.
 
-Here's where you come in, adventurer. You and your party have just finished training and are being sent out on your first mission as a fully-fledged Duskrunner Spear squad to deal with some bandits that have been operating out of some ruins just outside of [[Wellspring - the Shard of Axes]] in [[Calomir - the Great Moon Hold]]. How will your tale unfold as you leave the walls of society and brave the open wilderness for the first time?
+This is where your story begins, adventurer. You and your party have completed your training and are now embarking on your first mission as a fully-fledged Duskrunner Spear squad. Your task is to confront bandits operating from ruins just outside of [[Wellspring - the Shard of Axes]] in [[Calomir - the Great Moon Hold]]. How will your tale unfold as you step beyond society's walls into the wilderness for the first time?
+
 ## Campaign Overview
+
 ### Vibes
-#### Adventure
-My ideas theme-wise for this campaign is going erring on the side of ***generally lighthearted with plenty of room for serious character development and plot*** - think something along the lines of *Avatar: The Last Airbender*. We’re all here to hang out, have fun, and take a break from dealing with everything going on in the world for a little while when we come in.
+#### Adventure Through a Decaying World
+The thematic approach for this campaign is generally ***lighthearted with plenty of room for meaningful character development and plot progression*** as you traverse the ruins of the society that existed before the collapse—think along the lines of _Avatar: The Last Airbender. We're here to relax, enjoy ourselves, and momentarily step away from life's stresses.
 
 > [!note]
-> My main goal in this campaign is that it will start as themed shorter adventures *(Think between 2-4 sessions max per adventure with easy jump-in/jump-out points for anyone that wants/needs to)*. If the PCs hit a suitable level and everyone decides that they'd like to commit to something more long-term with this adventuring group, we'll then look at what launching into something larger scale would look like.
+> My primary goal is to run a series of short, thematic adventures _(approximately 2–4 sessions each, with easy entry and exit points for anyone who might want or need them)_. Should the characters reach an appropriate level and the group desires a longer-term commitment, we can explore transitioning into a larger-scale narrative.
 #### Combat
-Combat is a pretty vital part of any DnD game. My goal in prep for each session is for there to be *1 significant instance of combat per-session*, with there being more in dungeons-crawly situations or the like. In instances where an entire session happens without combat, I will make sure that there will *never be 2 sessions in a row without any combat*.
+Combat plays a vital role in D&D. My preparation goal is to ensure there's _at least one significant combat encounter per session_, with increased frequency during dungeon crawls or similar scenarios. If a session occurs without combat, I will ensure there are _never two consecutive sessions lacking combat encounters_.
 
-With those guardrails, that should equate to a pretty solid balance between having plenty of role-play opportunities without dragging too much between letting the super-powered fighting adventurers flex their strength.
+These guidelines should provide a good balance between engaging role-playing opportunities and dynamic combat encounters, allowing your adventurers ample opportunities to showcase their strengths.
 
->[!tip] Rule of Cool
->My main goal in running a game is that everyone feels like they have the tools available to them to have fun. I want to encourage you to be creative and will generally allow you to try most things and possibly even give you bonuses as a result for trying something out of the box.
-
+> [!tip] Rule of Cool
+> My main objective as the game master is ensuring everyone has fun. I encourage creativity, allowing most ideas to be attempted, and may even grant bonuses for particularly imaginative or innovative solutions.
 ### Safety Tools
-The safety and comfort of everyone is and always will be my top-priority in the game. The [Lines & Veils Document](https://docs.google.com/spreadsheets/d/1Tioa7dusPyOB1QkaGyY9U3g9pMXpsaOuQkjuvgr-r1U/edit?usp=drive_link) will be kept updated with what everyone says are their own lines and veils so that we can all be on the same page and that no one feels unsafe. That being said, I’m not going to pretend that anyone is always perfect. If I or anyone else says or does anything that makes you feel uncomfortable, please to let me know via DM or in-person and the situation will be handled accordingly.
+Player safety and comfort will always be my highest priority. The [Lines & Veils Document](https://docs.google.com/spreadsheets/d/1Tioa7dusPyOB1QkaGyY9U3g9pMXpsaOuQkjuvgr-r1U/edit?usp=drive_link) will remain up-to-date, clearly outlining everyone's individual boundaries, so we're all on the same page. However, mistakes can happen. If anything said or done (including by myself) makes you uncomfortable, please inform me privately via DM or in-person, and I will address the issue promptly.
 
->[!info] Definitions
->***Lines*** - Topics/themes that aren’t to be talked about or referenced in any way at the table under any circumstance
->
->***Veils*** - Topics/themes that can occur, just not extensively or discussed detail
+> [!info] Definitions
+> **_Lines_** – Topics/themes that should never be discussed or referenced at the table under any circumstances.
+> 
+> **_Veils_** – Topics/themes that can occur but shouldn't be explored extensively or discussed in detail.
 
-I cannot stress enough how important player safety and comfort is to me. Please don't just soldier on if something/someone is making you uncomfortable, even if it's me.
+I cannot stress enough how important your comfort and safety are. If you ever feel uncomfortable, please don't hesitate to speak up.
 ### Scheduling
-I'm prepared to host everyone in person starting with a goal of 2 sessions per month, getting scheduled as early out as we can in advance, with each session shooting for around 2.5 - 3 hours from start to stop. I'll send out a sheet in the near future for everyone to tag what days their available, and I'll put together the nights that work best for everyone to play once I have everyone's availability in.
+I'm prepared to host sessions in-person, aiming for two meetings per month, scheduled as far in advance as possible. Sessions will typically run between 2.5 and 3 hours. I'll soon share a scheduling form to identify everyone's availability and select dates that best accommodate the group.
