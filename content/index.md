@@ -9,14 +9,14 @@ It has been 104 years since [[Nightfall]] plunged the world of [[Lumeria]] into 
 
 The Duskrunners are the lifeblood of Lumeria, bravely venturing into the night to ensure the flow of life, knowledge, and adventure between Holds and Shards. Through their divisions, they maintain communication, preserve supply lines, and neutralize threats before they escalate.
 
-This is where your story begins, adventurer. You and your party have completed your training and are now embarking on your first mission as a fully-fledged #DuskrunnerSpear  squad. Your task is to confront bandits operating from ruins a short trek from [[Wellspring]] in [[Calomir]]. How will your tale unfold as you step beyond society's walls into the wilderness for the first time?
+This is where your story begins, adventurer. You and your party have completed your training and are now embarking on your first mission as a fully-fledged #DuskrunnerSpear  squad. Your task is to find and take out [[The Ashened Hand]]—a fledgling group operating hiding in the woods about a day and a half northeast from [[Wellspring]] in [[Calomir]], raiding and kidnapping members of the shard. How will your tale unfold as you step beyond society's walls into the wilderness for the first time?
 
 ---
 ## Campaign Overview
 
 ### Vibes
 #### Adventure Through a Decaying World
-The thematic approach for this campaign is generally ***lighthearted with plenty of room for meaningful character development and plot progression*** as you traverse the ruins of the society that existed before the collapse—think along the lines of _Avatar: The Last Airbender. We're here to relax, enjoy ourselves, and momentarily step away from life's stresses.
+The thematic approach for this campaign is generally ***lighthearted high fantasy with plenty of room for meaningful character development and plot progression*** as you traverse the ruins of the society that existed before the collapse—think along the lines of _Avatar: The Last Airbender. We're here to relax, enjoy ourselves, and momentarily step away from life's stresses.
 
 > [!note]-
 > My primary goal is to run a series of short, thematic adventures _(approximately 2–4 sessions each, with easy entry and exit points for anyone who might want or need them)_. We can explore transitioning into a larger-scale narrative if/when the characters reach an appropriate level along with if everyone wants to commit to a longer-running campaign.

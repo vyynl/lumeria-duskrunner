@@ -5,6 +5,6 @@ aliases:
   - Wellspring
 tags:
   - shards
-  - Calomir
+  - hold-Calomir
   - placeOfInterest
 ---

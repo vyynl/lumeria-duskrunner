@@ -19,7 +19,7 @@ Let me know of any ideas you have, and I'll work with you about getting them fit
 - **Source Material** - Main plan is to stick to the source material in the **2024 PHB**, but I'm open to exploring other official-released material to start if you wanted to reach out and talking it out. I like the idea of homebrewing in the future, but can't say I'm confident enough in running the system to have balanced material along with the added complexity.
 	- Here're places you can access the handbook:
 		- [5e.tools](https://5e.tools/book.html#xphb) - Fully online tool for all 5e source-books
-		- [2024 PHB PDF]() - File from the handbook that I purchased
+		- [2024 PHB PDF](https://drive.google.com/file/d/1TxXjlMaYO3tRtQHJxbeOcvogG4L6iaZN/view?usp=drive_link) - File from the handbook that I purchased
 		- I also have a physical copy for when we meet in-person
 - **Character Sheets** - Click the link [Here](https://www.dndbeyond.com/campaigns/join/6632671608645232) to create your character with the below settings:
 

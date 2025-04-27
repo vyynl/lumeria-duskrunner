@@ -3,6 +3,6 @@ title: Calomir - the Great Moon Hold
 draft: true
 tags:
   - holds
-  - Calomir
+  - hold-Calomir
   - placeOfInterest
 ---
