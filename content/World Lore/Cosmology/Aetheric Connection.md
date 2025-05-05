@@ -26,7 +26,7 @@ Few are able to channel the [[Aether]], but those who are have access to a well 
 
 You are **rupture incarnate**. Your rage is not emotion, it is the *raw, unfiltered will to survive and destroy*. So primal that it sears the [[Aether]] wherever you go.
 
-You presence creates unstable echoes, zone of instinctual warping where spells falter, illusions dissolve, and divine aspect recoil. Totem paths or primal ancestries often reflect *unspoken godforms* — pre-divine or proto-mythic beings who never became gods, but were burned into the [[Aether]] by sheer presence.
+You presence creates unstable echoes, zone of instinctual warping where spells falter, illusions dissolve, and divine aspect recoil. Totem paths or primal ancestries often reflect *unspoken godforms* — pre-divine or proto-mythic beings who never became gods, but were burned into the [[Aether]] by the chaos left in their wake.
 
 Some barbarians develop *battle trances* where thy glimpse older versions of themselves, or ancestral archetypes left behind in the cracked mirror.
 
