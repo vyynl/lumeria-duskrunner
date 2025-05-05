@@ -19,4 +19,4 @@ While there are those that do care about the value to society that they bring as
 - #DuskrunnerSpear - The adventurer-division of the Duskrunners
 	- This is the most selective and dangerous division of the Duskrunners. Spears are seen as something like squads of special force force strike-teams, competent fighters with instincts and wit to match. Spear squads are sent on missions deemed too dangerous for any of the other divisions
 	- Highest skill, highest glory, highest death-toll
-	- Elite and eclectic to their core
+	- Elite and eclectic to their core - the only area of the guild with [[Aetheric Connection]]
