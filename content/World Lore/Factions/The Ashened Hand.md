@@ -1,6 +1,6 @@
 ---
 title: The Ashened Hand
-draft: true
+draft: false
 tags:
   - faction
   - shard-Wellspring
