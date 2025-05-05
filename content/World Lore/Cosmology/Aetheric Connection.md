@@ -1,5 +1,5 @@
 ---
-title: Manifesting Aetheric Connection
+title: Classes - Aetheric Connection
 draft: false
 tags:
   - aether
