@@ -1,5 +1,5 @@
 ---
-title: The Aether - Overview
+title: The Aether
 draft: false
 tags:
   - "#planeOfExistence"

@@ -1,5 +1,5 @@
 ---
-title: The Material Plane
+title: The Material
 draft: false
 tags:
   - world-lore
