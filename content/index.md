@@ -9,7 +9,7 @@ It has been 104 years since [[Nightfall]] plunged the world of [[Lumeria]] into 
 
 The Duskrunners are the lifeblood of Lumeria, bravely venturing into the night to ensure the flow of life, knowledge, and adventure between Holds and Shards. Through their divisions, they maintain communication, preserve supply lines, and neutralize threats before they escalate.
 
-This is where your story begins, adventurer. You and your party have completed your training and are now embarking on your first mission as a fully-fledged #DuskrunnerSpear  squad. Your task is to find and take out [[The Ashened Hand]]—a fledgling group operating hiding in the woods about a day and a half northeast from [[Wellspring]] in [[Calomir]], raiding and kidnapping members of the shard. How will your tale unfold as you step beyond society's walls into the wilderness for the first time?
+This is where your story begins, adventurer. You and your party have passed your initiation into the guild and have become a full-fledged #DuskrunnerSpear squad. Your squad has been hired to track down the missing caravan belonging to the [[Ironroot Corporation]] located in the town of [[Wellspring]]. The corporation has been having issues with a group of bandits calling themselves [[The Ashened Hand]], and fear that something bad may have befallen their last shipment. How will your tale unfold as you stop beyond society's walls into the wilderness on your first quest?
 
 ---
 ## Campaign Overview
@@ -19,7 +19,7 @@ This is where your story begins, adventurer. You and your party have completed y
 The thematic approach for this campaign is generally ***lighthearted high fantasy with plenty of room for meaningful character development and plot progression*** as you traverse the ruins of the society that existed before the collapse—think along the lines of _Avatar: The Last Airbender. We're here to relax, enjoy ourselves, and momentarily step away from life's stresses.
 
 > [!note]-
-> My primary goal is to run a series of short, thematic adventures _(approximately 2–4 sessions each, with easy entry and exit points for anyone who might want or need them)_. We can explore transitioning into a larger-scale narrative if/when the characters reach an appropriate level along with if everyone wants to commit to a longer-running campaign.
+> My primary goal is to run a series of shorter, thematic adventures _(approximately 2–4 sessions each, with easy entry and exit points for anyone who might want or need them)_. We can explore transitioning into a larger-scale narrative if/when the characters reach an appropriate level along with if everyone wants to commit to a longer-running campaign.
 #### Combat
 Combat plays a vital role in D&D. My preparation goal is to ensure there's _at least one significant combat encounter per session_, with more happening during dungeon crawls or similar scenarios. If a session occurs without combat, I will make sure there are _never two consecutive sessions lacking combat encounters_.
 
@@ -41,4 +41,4 @@ I cannot stress enough how important your comfort and safety is. If you ever fee
 
 ---
 ### Scheduling
-I'm ready to host games in-person, aiming for **two sessions per month**, scheduled as far in advance as we think possible. The plan is to max session-length around **2.5 and 3 hours**. I'll send out some more scheduling info in the near future to hammer out the first couple of in-person sessions.
+The baseline schedule is set for **two sessions per month**, scheduled as **every other Monday, with a start-time of 6pm**. The plan is to max session-length around **2.5 and 3 hours**.
