@@ -1,5 +1,5 @@
 ---
-title: Sylari - The Weeping Wild
+title: Sylari
 draft: false
 tags:
   - world-lore
@@ -11,6 +11,7 @@ aliases:
   - Cityborn
   - The Remnant
 ---
+# The Weeping Wild
 > *“To feel is to die. To forget is to survive.”*
 ## Overview
 Before [[Nightfall]], the wood elves were children of the living world—rangers, herbalists, and guardians of the green. When the light vanished, they faced a terrible choice: *abandon the wilds*, or *abandon themselves*.

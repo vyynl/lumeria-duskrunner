@@ -1,5 +1,5 @@
 ---
-title: Aasimar & Tiefling - Segments of the Divine
+title: Aasimar & Tiefling
 draft: false
 tags:
   - world-lore
@@ -10,6 +10,7 @@ aliases:
   - Aasimar
   - Tiefling
 ---
+# Segments of the Divine
 > *“The stars shifted. The roles reversed. The world never forgets.”*
 
 ## Overview

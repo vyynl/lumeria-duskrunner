@@ -1,5 +1,5 @@
 ---
-title: Kheltari - The Dwellers of the Deep
+title: Kheltari
 draft: false
 tags:
   - world-lore
@@ -13,6 +13,7 @@ aliases:
   - Sverfneblin
   - Deep Knomes
 ---
+# The Dwellers of the Deep
 > *"We who remember the dark, and chose to walk in light.*
 ## Overview
 Once divided by blood, border, and belief, the peoples of the Underdark have found new identity in a shared truth: **they survived**. When the [[Nyxwraiths]] plagued the tunnels of their home, the different races set aside past hostilities and rose to the surface—a world once alien and hostile now become their only hope.

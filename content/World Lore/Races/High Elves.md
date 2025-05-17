@@ -1,13 +1,14 @@
 ---
-title: High Elves - The Saviors of Eternity
+title: High Elves
 draft: false
 tags:
   - world-lore
   - races
   - culture
   - Calomir
-aliases: []
+aliases:
 ---
+# The Saviors of Eternity
 > *“It is only natural that we lead. Who else could bear the weight?”*
 
 ## Overview

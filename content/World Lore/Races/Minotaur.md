@@ -1,5 +1,5 @@
 ---
-title: Minotaur - The Horned Orders
+title: Minotaur
 draft: false
 tags:
   - world-lore
@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bull-kin
 ---
+# The Horned Flame
 > *“To bear the shape of a beast is not to be one.”*
 
 ## Overview
