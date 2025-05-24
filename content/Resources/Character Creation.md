@@ -23,22 +23,23 @@ Let me know of any ideas you have, and I'll work with you about getting them fit
 		- I also have a physical copy for when we meet in-person
 - **Character Sheets** - Click the link [Here](https://www.dndbeyond.com/campaigns/join/6632671608645232) to create your character with the below settings:
 
-| Area                           | Options Checked                        |
-| ------------------------------ | -------------------------------------- |
-| Sources                        | *2014 Core Rules*                      |
-| Partnered Content              | *N/a*                                  |
-| Dice Rolling                   | *N/a*                                  |
-| Optional Features              | *Customize your origin*                |
-| Advancement Type               | *Milestone*                            |
-| Hit Point Type                 | *Fixed*                                |
-| Use Prerequisites              | *- Feats<br>- Multiclass Requirements* |
-| Show Level-Scaled Spells       | *Yes*                                  |
-| Encumberance Type              | *No encumberance*                      |
-| Ignore Coin Weight             | *Yes*                                  |
-| Ability Score/Modifier Display | *Player choice*                        |
-| Character Privacy              | *Either Campaign Only or Public*       |
-| Background/Species             | *Choose from 2024 core rules*          |
-| Ability Scores                 | *Standard Array*                       |
+| Area                           | Options Checked                                                                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sources                        | *2014 Core Rules*                                                                                                                                          |
+| Partnered Content              | *N/a*                                                                                                                                                      |
+| Dice Rolling                   | *N/a*                                                                                                                                                      |
+| Optional Features              | *Customize your origin*                                                                                                                                    |
+| Advancement Type               | *Milestone*                                                                                                                                                |
+| Hit Point Type                 | *Manual*                                                                                                                                                   |
+| Use Prerequisites              | *- Feats<br>- Multiclass Requirements*                                                                                                                     |
+| Show Level-Scaled Spells       | *Yes*                                                                                                                                                      |
+| Encumberance Type              | *No encumberance*                                                                                                                                          |
+| Ignore Coin Weight             | *Yes*                                                                                                                                                      |
+| Ability Score/Modifier Display | *Player choice*                                                                                                                                            |
+| Character Privacy              | *Either Campaign Only or Public*                                                                                                                           |
+| Background/Species             | *Choose from 2024 core rules/Something random for Minotaur, idk where to add it - I'm mainly using this for tracking HP, ability scores and proficiencies* |
+
+
 ## Rolled Ability Scores
 Below are the shared rolled ability scores for PC creation. Your +2 and +1 stat bonuses and starting feat are going to be accounted for with your **Origin**, I've switched the creation requirements so that you can create a custom origin in-case none of the base options fit what you're going for
 
