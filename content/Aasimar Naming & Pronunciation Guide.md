@@ -1,7 +1,9 @@
-**Aasimar Naming & Pronunciation Guide**
-
 ---
-
+title: 
+draft: true
+tags: 
+aliases:
+---
 ## Linguistic Foundation: Arabic + Hebrew Influences
 
 Aasimar names reflect a divine heritage rooted in sanctity, grief, and spiritual roles. Crecheborn names are sacred titles given through rite. Veiled Aasimar often modify or obscure their names for safety and autonomy.
