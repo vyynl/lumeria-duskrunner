@@ -1,8 +1,7 @@
 ---
-title: Wellspring - the Shard of Axes
+title: Wellspring
 draft: true
-aliases:
-  - Wellspring
+aliases: []
 tags:
   - shards
   - hold-Calomir

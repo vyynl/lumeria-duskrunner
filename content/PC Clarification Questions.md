@@ -40,7 +40,7 @@ To Maia & Kaushi
 - What happened that made Drina finally act, leaving the status-quo behind and going out into the world? This could be directly tied to her currently mission
 
 ---
-## The Cleric
+## Lieren
 - What moment/event made your character stop hiding & choose to act as an adventurer rather than a temple priest?
 - What is your character actively pursuing at this point in time? Ex. topple your family's status, atone for something specific, etc.
 - What are a couple thing you still need in order to accomplish that goal?
