@@ -1,5 +1,5 @@
 ---
-title: The Broken Caravan
+title: "Session 1: The Broken Caravan"
 draft: false
 ---
 The tale begins—how else?—in a forest.  

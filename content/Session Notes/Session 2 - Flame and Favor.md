@@ -1,5 +1,5 @@
 ---
-title: Flame and Favor
+title: "Session 2: Flame and Favor"
 draft: false
 tags: 
 aliases:
