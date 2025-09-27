@@ -54,12 +54,12 @@ Each player may hold up to **3 Hope**. Hope is personal and cannot be shared.
 > [!tip]  Uses
 > - **Tip the Scales (1 Hope):** Attempt a bold or cinematic stunt. If it reflects your character’s experience, add **+2** to the roll.
 > - **Help (1 Hope):** Aid an ally. They gain **Advantage**. This replaces the normal Help action.
-> - **Tag-Team Attack (3 Hope):** Join another character in a combined strike. Both roll an attack (casters may use spell attack). Take the higher roll. On a hit, both roll damage and share the spotlight.
+> - **Tag-Team Attack (3 Hope):** Join another character in a combined strike. Both roll an attack (casters may use spell to attack). Take the higher roll. On a hit, both roll damage and share the spotlight.
 
 ---
 
 ## Spending Fear
-The GM may hold up to **6 Fear** at a time. Fear fuels danger, escalation, and control of the scene.
+The GM may hold up to **6 Fear** at a time. Fear fuels danger and escalation in the scene.
 
 > [!danger]  
 > - **Complication (1 Fear):** Introduce a new obstacle or twist.
@@ -81,7 +81,7 @@ Combat begins with initiative. The roll only decides whether the players or the 
 > - The GM spotlight lasts for **one free rollable action**.
 > - To keep the spotlight, the GM must spend **1 Fear per additional action**.
 > - Each enemy or hazard can only be spotlighted **once per round** unless a special ability states otherwise.
-> - Without Fear to spend, the spotlight always returns to the players after the GM’s **one free action**.
+> - Without Fear to spend, the spotlight always returns to the players after the GM’s last action.
 
 ---
 ## Attacks of Opportunity
