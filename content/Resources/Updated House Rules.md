@@ -44,7 +44,7 @@ Critical results override Hope/Fear parity, but Hope and Fear may still be gaine
 When rolling with Emphasis, roll **2d20** and select the result farthest from 10.
 
 > [!example] Ruling  
-> - Only modifiers and proficiency apply—advantage or disadvantage never stacks with Emphasis.
+> - Only modifiers and proficiency apply. Advantage or disadvantage never stacks with Emphasis.
 > - The GM may spend Fear to impose Emphasis, representing heightened tension.
 
 ---
